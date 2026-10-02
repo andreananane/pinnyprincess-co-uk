@@ -1,1 +1,6 @@
 /index.php / 301
+/shelbywin-gb/* /casino-shelby-win-gb/:splat 301
+/shelbywin-casino-gb/* /casino-shelby-win-gb/:splat 301
+/shelby-win-casino-gb/* /casino-shelby-win-gb/:splat 301
+/shelby-win-gb/* /casino-shelby-win-gb/:splat 301
+/united-kingdom-gb/* /casino-shelby-win-gb/:splat 301
